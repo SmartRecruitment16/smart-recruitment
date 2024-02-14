@@ -1,1 +1,1 @@
-smart-recruitment website
+Smart Recruitment Web Page
