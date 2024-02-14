@@ -91,6 +91,17 @@
   }
 }
 
+::-webkit-scrollbar {
+  width: 12px;
+  --bs-border-opacity: 1;
+  background-color:#343a40 !important;
+}
+
+::-webkit-scrollbar-thumb {
+  background:#ffffff;
+  border-radius: 15px;
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
